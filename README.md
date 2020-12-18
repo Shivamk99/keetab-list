@@ -1,4 +1,4 @@
-# [keetab-list](![Screenshot (23)](https://user-images.githubusercontent.com/50996696/102570064-a646c180-410c-11eb-8540-e1b1a484627e.png))
+# [keetab-list](https://user-images.githubusercontent.com/50996696/102570064-a646c180-410c-11eb-8540-e1b1a484627e.png)
 > About
 
 1. Listing of Books app built from Vanilla.JS.
